@@ -1,0 +1,6 @@
+@TechGuide_HostAddress = http://localhost:5010
+
+GET {{TechGuide_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
